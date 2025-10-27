@@ -1,4 +1,3 @@
-
 DECLARE
 
 a NUMBER := 0;
@@ -9,7 +8,7 @@ temp NUMBER;
 
 n NUMBER := 10;
 
-I NUMBER;
+1 NUMBER;
 
 BEGIN
 
